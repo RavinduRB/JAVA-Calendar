@@ -1,6 +1,6 @@
 import java.util.Calendar;
 
-public class SimpleCalendar {
+public class Example {
     public static void main(String[] args) {
         int year = 2023; // Change to the desired year
         int month = Calendar.AUGUST; // Change to the desired month (use Calendar constants, e.g., Calendar.JANUARY)
